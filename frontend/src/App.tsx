@@ -1,5 +1,5 @@
 function App() {
-  return <div>Olá, Brasil</div>;
+  return <div className="text-primary">Olá, Brasil</div>;
 }
 
 export default App;
