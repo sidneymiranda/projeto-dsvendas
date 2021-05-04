@@ -1,6 +1,6 @@
 import React from 'react';
 
-function DataTable() {
+const DataTable = () => {
   return (
     <div className="table-responsive">
       <table className="table table-striped table-sm">
@@ -88,6 +88,6 @@ function DataTable() {
       </table>
     </div>
   );
-}
+};
 
 export default DataTable;
